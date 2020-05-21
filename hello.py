@@ -1,2 +1,2 @@
-x= 'Hello ' [0]
+x= 'Hello ' [0:2]
 print(x)
